@@ -1,6 +1,6 @@
 ---
 title: "Lab 00 - Hello IDS!"
-author: "May Nishimura"
+author: "Mayuko Nishimura"
 date: "`r Sys.Date()`"
 output: html_document
 ---
